@@ -1,4 +1,4 @@
-# Spotify & Nft Music App (BETA)
+# Spotify & Nft Music App
 
 
  Welcome to our NFT-based music app, where music and blockchain technology come together to create a unique and revolutionary experience.Our app allows musicians and artists to create and sell their music as non-fungible tokens (NFTs), providing a new way for fans to support and invest in their favorite artists.
